@@ -1,0 +1,13 @@
+print "What's your first name?"
+first_name = gets.chomp
+
+print "What's your last name?"
+last_name = gets.chomp
+
+print "What's your city name?"
+city = gets.chomp
+
+print "What's your state or province name?"
+state = gets.chomp
+
+puts "Your name is #{first_name} #{last_name}. And you are from #{city} in #{state}.!"
