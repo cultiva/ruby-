@@ -8,6 +8,6 @@ lunch_order = {
 
 
 lunch_order.each do
-    |x|
-    puts x
+    |x,y|
+    puts y
 end
