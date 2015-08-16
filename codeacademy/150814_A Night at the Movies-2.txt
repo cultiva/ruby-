@@ -1,0 +1,10 @@
+movies = {
+	"Mission Impossible" => 3
+	"Blue Back Mountain" => 5
+	"Roman's Holiday" => 4
+}
+
+puts "What is your favorite movie?"
+
+choice = gets.chomp
+
